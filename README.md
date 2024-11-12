@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, Welcome to deniPamungkas's github 👋
 
+I'm a Frontend Developer from ID with specialization in ReactJs and VueJs. I'm fresher who commit to learn something new everyday and currently working with Javascript. If you have similar interest, lets connect and working together
 <!--
 **deniPamungkas/deniPamungkas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
